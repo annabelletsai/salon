@@ -1,0 +1,21 @@
+body{
+    background-color: #cffff2;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color: #fffff;
+	color: #e8ecf2;
+}
+
+nav a{
+  text-decoration: none;
+  color: #e8ecf2;
+  font-family: "Georgia", serif;
+  font-size: 25px;
+}
+
+address a{
+  font-size: 40px:
+}
